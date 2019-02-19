@@ -8,11 +8,6 @@ It is thought to be very simple and useful.
 
 You only need a file in .txt with the adequate format (See The Format section)
 
-
-*If you have a pdf file try a website converter (example : https://www.pdf2go.com) or something like this script*
-
-https://gist.github.com/vinovator/c78c2cb63d62fdd9fb67
-
 ```
 python TestGen.py {filename}
 
@@ -22,6 +17,14 @@ python TestGen.py TestExample
 
 (The .txt is included in the program, so you don't need to write it again)
 ```
+
+#### File format
+Remember to use a txt file 
+
+*If you have a pdf file try a website converter (example : https://www.pdf2go.com) or something like this script*
+
+https://gist.github.com/vinovator/c78c2cb63d62fdd9fb67
+
 ## Useful variables
 I've created this tool thinking that not all test are the same, so u could need to personalize this program.
 To make it easier these are the variables u can control :
