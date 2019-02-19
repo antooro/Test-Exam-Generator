@@ -9,7 +9,7 @@ It is thought to be very simple and useful.
 You only need a file in .txt with the adequate format (See The Format section)
 
 
-*If you have a pdf file try a website converter (example : https://www.pdf2go.com) or something like this script *
+*If you have a pdf file try a website converter (example : https://www.pdf2go.com) or something like this script*
 
 https://gist.github.com/vinovator/c78c2cb63d62fdd9fb67
 
