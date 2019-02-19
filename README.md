@@ -1,5 +1,5 @@
 # Test-Exam-Generator
-Generate test exams providing a text file with the suitable format.
+Generate interactive *(Beta version in console)* test exams providing a text file with the suitable format.
 Created with Python37
 
 ## How to use?
