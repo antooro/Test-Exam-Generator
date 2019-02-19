@@ -1,7 +1,46 @@
 # Test-Exam-Generator
 Generate test exams providing a text file with the suitable format.
+Created with Python37
+
+## How to use?
+
+It is thought to be very simple and useful.
+
+You only need a file in .txt with the adequate format (See The Format section)
+
+```
+python TestGen.py {filename}
+
+example :
+
+python TestGen.py TestExample
+
+(The .txt is included in the program, so you don't need to write it again)
+```
+## Useful variables
+I've created this tool thinking that not all test are the same, so u could need to personalize this program.
+To make it easier these are the variables u can control :
 
 
+Number of options (a,b,c,d) = 4
+``` 
+numOpciones = 4
+``` 
+The word that delimits the solutions (See the format section)
+``` 
+WORD = "RESPUESTAS"
+``` 
+If you have some dir with exams, for example.
+
+/home/user/exams
+- /exam1
+- /exam2
+
+You could set RUTA = "/home/user/exams/" so you only would need to enter the name of the file and not the full path
+``` 
+RUTA = ''
+
+```
 ## The Format
 
 This tool tries to be universal, but due to variety of exams that exists, we need to follow a little format in order to make this program work correctly.
