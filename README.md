@@ -87,7 +87,7 @@ It is "RESPUESTAS" but u can change that with a little modification of the code.
 ![alt text](https://i.imgur.com/Z5CPX2z.png)
 
 ### Working sample
-![alt text](https://i.imgur.com/wNFsOCu.png)
+![alt text](https://i.imgur.com/UrrCUDG.png)
 
 #### TODO
 
