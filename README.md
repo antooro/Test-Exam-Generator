@@ -94,3 +94,4 @@ It is "RESPUESTAS" but u can change that with a little modification of the code.
 - Format code, make it readable (I'm a mess, sorry)
 - Run some tests with many files
 - Try to improve the pdf to txt tool.
+- GUI or User friendly interface (HTML or TKINTER)
